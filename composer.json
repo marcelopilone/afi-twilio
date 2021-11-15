@@ -1,0 +1,9 @@
+{
+        "name"       : "afigestion/afi-twilio",
+        "description": "Afigestion Plugin Twilio",
+        "type"       : "afi-twilio",
+        "license"    : "proprietary",
+        "require"    : {
+                "composer/installers": "~1.0"
+        }
+}

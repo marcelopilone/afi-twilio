@@ -1,0 +1,1 @@
+El usuario <strong><?php echo $usuario?></strong> quiere ver un padrón si desea que lo visualicé, darle este token: <strong><?php echo $tokenGenerado?></strong>
